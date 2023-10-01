@@ -1,6 +1,0 @@
-# .gitignore
-
-# Exclude virtual environment
-venv/
-# Exclude pytest cache
-pytest_cache/
