@@ -1,0 +1,8 @@
+[
+  "test_payment.py::test_automation_steps[https://app-staging.qlub.cloud/qr/ae/dummy-checkout/89/_/_/e4b9eac596]",
+  "test_payment.py::test_automation_steps[https://app-staging.qlub.cloud/qr/ae/dummy-checkout/90/_/_/1827c10c80]",
+  "test_qlub_payment.py::test_automation_steps[https://app-staging.qlub.cloud/qr/ae/dummy-checkout/89/_/_/e4b9eac596]",
+  "test_widget.py::test_widget_fails",
+  "test_widget.py::test_widget_functions_as_expected",
+  "tests/test_payment.py::TestsCheckout::test_automation_steps[https://app-staging.qlub.cloud/qr/ae/dummy-checkout/89/_/_/e4b9eac596]"
+]

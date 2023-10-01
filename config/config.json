@@ -1,0 +1,23 @@
+{
+  "urls": [
+    "https://app-staging.qlub.cloud/qr/ae/dummy-checkout/89/_/_/e4b9eac596"
+  ],
+  "element_locators": {
+    "splash_page_loading_xpath": "//div[@class='SplashLegacy_kkEllipsis__w6lEx']",
+    "pay_now_button_xpath": "//button[contains(@class, 'css-f3r3go') and contains(., 'Pay now')]",
+    "loading_wrapper_xpath": "//div[@class='Splash_loadingWrapper__zGU1b']",
+    "table_span_xpath": "//span[contains(text(),'Table Table')]",
+    "split_bill_button_css": "button[class*='css-1r7mqks']",
+    "split_the_bill_menu_xpath": "//h2[normalize-space()='Split the bill']",
+    "custom_amount_button_xpath": "//button[@id='select-custom']",
+    "custom_amount_input_xpath": "//input[@id='fullWidth']",
+    "confirm_button_xpath": "//button[@id='split-bill']",
+    "order_summary_container_xpath": "//div[@class='OrderSummary_container__8DZAp']//div[@class='MuiCardContent-root css-1rdg4kt']",
+    "tip_button_xpath": "//div[@id='tip_15']//div[@class='MuiBox-root css-hk5mkc']",
+    "card_number_input_xpath": "//input[@class='card-number field' and @inputmode='numeric']",
+    "date_input_xpath": "//input[@id='checkout-frames-expiry-date']",
+    "cvv_input_xpath": "//input[@id='checkout-frames-cvv']",
+    "pay_button_css": "#checkout-action-btn",
+    "secure_authentication_input_xpath": "//input[@id='password']"
+  }
+}
